@@ -39,15 +39,6 @@ your-name-sql-assignment/
 - Updated and deleted records  
 - Added a new column (phone_number) and updated values  
 
----
-
-## ▶️ How to Run
-sqlite3 students.db
-
-.read sql_files/create_table.sql  
-.read sql_files/insert_data.sql  
-.read sql_files/queries.sql  
-.read sql_files/alter_table.sql  
 
 ---
 
